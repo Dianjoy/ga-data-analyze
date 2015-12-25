@@ -1,0 +1,8 @@
+{
+  "name": "ga-data-analyzee",
+  "version": "0.0.1",
+  "dependencies": {
+    "moment": "^2.10.6",
+    "underscore": "latest"
+  }
+}
